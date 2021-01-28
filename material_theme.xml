@@ -1,8 +1,8 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="pristineConfig" value="false" />
-    <option name="accentColor" value="42a5f5" />
-    <option name="selectedTheme" value="ARC_DARK" />
+    <option name="accentColor" value="7e57c2" />
+    <option name="selectedTheme" value="NIGHT_OWL" />
     <option name="userId" value="45aea941:174603891c1:-8000" />
     <option name="version" value="5.5.0" />
   </component>
