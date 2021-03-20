@@ -1,8 +1,12 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="compactMenus" value="false" />
+    <option name="compactStatusBar" value="false" />
+    <option name="compactTables" value="false" />
+    <option name="premium" value="true" />
     <option name="accentColor" value="84ffff" />
     <option name="selectedTheme" value="DEEPOCEAN" />
     <option name="userId" value="19a979cd:1770fe14aa1:-8000" />
-    <option name="version" value="5.5.0" />
+    <option name="version" value="6.1.1" />
   </component>
 </application>
