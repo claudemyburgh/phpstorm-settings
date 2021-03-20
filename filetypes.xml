@@ -2,7 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern=".gitiqnore" type="GitIgnore file" />
-      <mapping ext="graphqlconfig" type="JSON" />
+      <removed_mapping ext="graphqlconfig" type="JSON" />
       <mapping pattern=".php_cs.dist" type="PHP" />
       <mapping pattern=".editorconfig " type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
