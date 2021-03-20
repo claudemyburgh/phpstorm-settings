@@ -1,0 +1,10 @@
+<templateSet group="DBC React">
+  <template name="rfc" value="import React from 'react'&#10;&#10;const $NAME$ = ($VARS$) =&gt; {&#10;    return (&#10;        &lt;$ELEMENT$&gt;&#10;            $END$&#10;        &lt;/&gt;&#10;    )&#10;}&#10;&#10;export default $NAME$" description="Create react functional component" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="false" />
+    <variable name="VARS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ELEMENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
