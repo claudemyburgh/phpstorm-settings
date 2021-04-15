@@ -12,6 +12,11 @@
                       <FeaturePluginData displayName="Apex Offline Debugger" pluginName="Illuminated Cloud 2" pluginId="com.illuminatedcloud2.intellij" />
                     </value>
                   </entry>
+                  <entry key="BatchConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Batch" pluginName="Batch Scripts Support" pluginId="Batch Scripts Support" />
+                    </value>
+                  </entry>
                   <entry key="ChromiumRemoteDebugType">
                     <value>
                       <FeaturePluginData displayName="Attach to Node.js/Chrome" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" bundled="true" />
