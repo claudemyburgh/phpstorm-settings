@@ -2,10 +2,11 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern=".gitiqnore" type="GitIgnore file" />
+      <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern=".php_cs.dist" type="PHP" />
       <mapping pattern=".editorconfig " type="PLAIN_TEXT" />
-      <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="stub" type="PLAIN_TEXT" />
+      <mapping ext="text" type="PLAIN_TEXT" />
       <removed_mapping ext="permissionset" approved="true" type="XML" />
       <removed_mapping ext="profile" approved="true" type="XML" />
       <removed_mapping ext="sas" approved="true" type="Sass" />
