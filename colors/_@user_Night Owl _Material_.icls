@@ -4,7 +4,7 @@
     <property name="created">2020-09-11T23:27:20</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.2.0.0</property>
-    <property name="modified">2021-05-07T13:00:51</property>
+    <property name="modified">2021-05-07T13:10:16</property>
     <property name="originalScheme">Night Owl (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.8" />
@@ -82,7 +82,7 @@
     <option name="SELECTED_INDENT_GUIDE" value="7e97ac" />
     <option name="SELECTED_TEARLINE_COLOR" value="7e97ac" />
     <option name="SELECTION_BACKGROUND" value="4373c2" />
-    <option name="SELECTION_FOREGROUND" value="39b3af" />
+    <option name="SELECTION_FOREGROUND" value="e7e7e7" />
     <option name="SEPARATOR_BELOW_COLOR" value="122d42" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="122d42" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="7e57c2c0" />
