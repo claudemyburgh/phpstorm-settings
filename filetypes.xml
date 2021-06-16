@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".prettierignore" type="AUTO_DETECTED" />
       <mapping pattern=".gitiqnore" type="GitIgnore file" />
+      <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern=".php_cs.dist" type="PHP" />
       <mapping pattern=".editorconfig " type="PLAIN_TEXT" />
       <mapping pattern=".editor.config" type="PLAIN_TEXT" />
