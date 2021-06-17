@@ -14,6 +14,7 @@
       <removed_mapping ext="profile" approved="true" type="XML" />
       <removed_mapping ext="sas" approved="true" type="Sass" />
       <removed_mapping ext="sass" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="_nav.sass" approved="true" type="AUTO_DETECTED" />
     </extensionMap>
   </component>
