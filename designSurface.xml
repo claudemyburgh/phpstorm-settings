@@ -2,6 +2,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Claude/AndroidStudioProjects/MyApplication/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.21822916666666667" />
+        <entry key="..\:/Users/Claude/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_launcher_background.xml" value="0.21822916666666667" />
         <entry key="..\:/Users/Claude/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_fullscreen.xml" value="0.12018489984591679" />
       </map>
     </option>
