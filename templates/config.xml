@@ -1,0 +1,33 @@
+<templateSet group="config">
+  <template name=".prettier" value="{&#10;  &quot;trailingComma&quot;: &quot;es5&quot;,&#10;  &quot;tabWidth&quot;: 2,&#10;  &quot;semi&quot;: false,&#10;  &quot;singleQuote&quot;: true,&#10;  &quot;printWidth&quot;: 140&#10;}" description="prettierrc json config" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JSON" value="true" />
+    </context>
+  </template>
+  <template name=".editor" value="# EditorConfig is awesome: https://EditorConfig.org&#10;&#10;# top-most EditorConfig file&#10;root = true&#10;&#10;# Unix-style newlines with a newline ending every file&#10;[*]&#10;end_of_line = lf&#10;insert_final_newline = true&#10;&#10;# Matches multiple files with brace expansion notation&#10;# Set default charset&#10;[*.{js,py,ts,tsx}]&#10;charset = utf-8&#10;indent_style = space&#10;indent_size = 2&#10;&#10;# Tab indentation (no size specified)&#10;[Makefile]&#10;indent_style = tab&#10;&#10;[*.php]&#10;indent_size = 4&#10;indent_style = tab&#10;&#10;# Matches the exact files either package.json or .travis.yml&#10;[{package.json,.travis.yml}]&#10;indent_style = space&#10;indent_size = 2" description="editorconfig settings" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="ANY_OPENAPI_JSON_FILE" value="false" />
+      <option name="ANY_OPENAPI_YAML_FILE" value="false" />
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="ECMAScript6" value="false" />
+      <option name="GENERAL_JSON_FILE" value="false" />
+      <option name="GENERAL_YAML_FILE" value="false" />
+      <option name="HAML" value="false" />
+      <option name="HTML" value="false" />
+      <option name="HTTP_CLIENT_ENVIRONMENT" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="PHP" value="false" />
+      <option name="REQUEST" value="false" />
+      <option name="SHELL_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="Twig" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="Vue" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+</templateSet>
