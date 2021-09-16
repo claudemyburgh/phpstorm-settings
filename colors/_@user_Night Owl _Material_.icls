@@ -4,9 +4,13 @@
     <property name="created">2021-07-17T10:37:00</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.2.0.0</property>
-    <property name="modified">2021-07-17T10:40:23</property>
+    <property name="modified">2021-09-16T05:11:30</property>
     <property name="originalScheme">Night Owl (Material)</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.7" />
+  <option name="EDITOR_FONT_SIZE" value="17" />
+  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
     <option name="EDITOR_FONT_SIZE" value="12" />
@@ -20,7 +24,7 @@
   <colors>
     <option name="ADDED_LINES_COLOR" value="9ccc65" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
-    <option name="ActionButton.hoverBackground" value="84d8150" />
+    <option name="ActionButton.hoverBackground" value="4d8150" />
     <option name="ActionButton.iconTextForeground" value="5f7e97" />
     <option name="ActionButton.pressedBackground" value="84d81" />
     <option name="BookmarkIcon.background" value="7e57c2" />
@@ -1234,10 +1238,6 @@
         <option name="FOREGROUND" value="9373a5" />
       </value>
     </option>
-    <option name="JADE_FILE_PATH" baseAttributes="DEFAULT_STRING" />
-    <option name="JADE_FILTER_NAME" baseAttributes="DEFAULT_LABEL" />
-    <option name="JADE_JS_BLOCK" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="JADE_STATEMENTS" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JAVA.PRIMITIVE">
       <value>
         <option name="FOREGROUND" value="ff5874" />
