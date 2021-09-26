@@ -9,6 +9,7 @@
     <entry key="ide.new.stripes.ui" value="false" />
     <entry key="external.system.auto.import.disabled" value="true" />
     <entry key="ide.intellij.laf.enable.animation" value="true" />
+    <entry key="eslint.additional.file.extensions" value="svelte" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
