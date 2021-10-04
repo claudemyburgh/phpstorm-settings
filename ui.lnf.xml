@@ -36,6 +36,8 @@
     </nesting-rules>
   </component>
   <component name="UISettings">
+    <option name="DND_WITH_PRESSED_ALT_ONLY" value="true" />
     <option name="HIDE_TOOL_STRIPES" value="true" />
+    <option name="CONTRAST_SCROLLBARS" value="true" />
   </component>
 </application>
