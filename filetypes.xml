@@ -1,9 +1,9 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="cmd" type="Batch" />
-      <removed_mapping ext="cmd" type="Cmd" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping ext="stub" type="PLAIN_TEXT" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="ng" approved="true" type="HTML" />
       <removed_mapping ext="prettierignore" approved="true" type="AUTO_DETECTED" />
