@@ -2,23 +2,17 @@
   <component name="CodeFoldingSettings">
     <option name="COLLAPSE_IMPORTS" value="false" />
     <option name="COLLAPSE_FILE_HEADER" value="false" />
+    <option name="COLLAPSE_CUSTOM_FOLDING_REGIONS" value="true" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="AUTOREPARSE_DELAY" value="700" />
-  </component>
-  <component name="DefaultFont">
-    <option name="FONT_SIZE" value="17" />
-    <option name="FONT_REGULAR_SUB_FAMILY" value="Regular" />
-    <option name="FONT_BOLD_SUB_FAMILY" value="Bold" />
-    <option name="LINE_SPACING" value="1.7" />
-    <option name="USE_LIGATURES" value="true" />
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*" />
     <option name="SHOW_INSPECTION_WIDGET" value="false" />
     <option name="TOOLTIPS_DELAY_MS" value="200" />
-    <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
   <component name="PhpCodeFoldingSettings">
