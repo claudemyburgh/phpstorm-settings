@@ -1,5 +1,5 @@
 <templateSet group="config">
-  <template name=".prettier" value="{&#10;  &quot;trailingComma&quot;: &quot;es5&quot;,&#10;  &quot;tabWidth&quot;: 2,&#10;  &quot;semi&quot;: false,&#10;  &quot;singleQuote&quot;: true,&#10;  &quot;printWidth&quot;: 140&#10;}" description="prettierrc json config" toReformat="true" toShortenFQNames="true">
+  <template name=".prettier" value="{&#10;  &quot;trailingComma&quot;: &quot;es5&quot;,&#10;  &quot;tabWidth&quot;: 2,&#10;  &quot;semi&quot;: false,&#10;  &quot;singleQuote&quot;: false,&#10;  &quot;printWidth&quot;: 180,&#10;  &quot;useTabs&quot;: false,&#10;  &quot;htmlWhitespaceSensitivity&quot;: &quot;css&quot;,&#10;  &quot;indentSchema&quot;: false,&#10;  &quot;singleLineLinkTags&quot;: false&#10;}" description="prettierrc json config" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JSON" value="true" />
     </context>
