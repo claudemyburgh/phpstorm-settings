@@ -1,0 +1,7 @@
+<templateSet group="Lit">
+  <template name="lit" value="import {LitElement, html, css} from &quot;lit&quot;;&#10;import {customElement} from &quot;lit/decorators.js&quot;;&#10;&#10;&#10;@customElement('x-button')&#10;export class XButton extends LitElement {&#10;    static styles = css`&#10;      button {&#10;        background-color: #535bf2;&#10;      }&#10;  `&#10;&#10;  render() {&#10;    return html`&lt;button&gt;My Button&lt;/button&gt;`&#10;  }&#10;}" description="Create Lit2 components" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
