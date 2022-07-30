@@ -1,5 +1,5 @@
 <templateSet group="Liquid">
-  <template name="schema" value="{% schema %}&#10;{&#10;  &quot;name&quot;: &quot;$TITLE$&quot;,&#10;  &quot;settings&quot;: [&#10;    {&#10;      &quot;type&quot;: &quot;$TYPE$&quot;,&#10;      &quot;id&quot;: &quot;$ID$&quot;,&#10;      &quot;default&quot;: &quot;$DEFAULT$&quot;,&#10;      &quot;label&quot;: &quot;$LABEL$&quot;&#10;    }&#10;  ]&#10;}&#10;{% endschema %}&#10;" description="" toReformat="false" toShortenFQNames="true">
+  <template name="schema" value="{% schema %}&#10;{&#10;  &quot;name&quot;: &quot;$TITLE$&quot;,&#10;  &quot;settings&quot;: [&#10;    {&#10;      &quot;type&quot;: &quot;$TYPE$&quot;,&#10;      &quot;id&quot;: &quot;$ID$&quot;,&#10;      &quot;default&quot;: &quot;$DEFAULT$&quot;,&#10;      &quot;label&quot;: &quot;$LABEL$&quot;&#10;    }&#10;  ],&#10;  &quot;presets&quot;: [&#10;    {&#10;       &quot;name&quot;: &quot;$TITLE$&quot;&#10;    }&#10;  ]&#10;}&#10;{% endschema %}&#10;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="TITLE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="ID" expression="" defaultValue="" alwaysStopAt="true" />
