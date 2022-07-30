@@ -9,4 +9,10 @@
       <option name="LIQUID" value="true" />
     </context>
   </template>
+  <template name="sec" value="{&#10;  &quot;sections&quot;: {&#10;    &quot;$START$&quot;: {&#10;        &quot;type&quot;: &quot;$END$&quot;&#10;    }&#10;  },&#10;  &quot;order&quot;: [&quot;$START$&quot;]&#10;}" description="JSON section for shopify" toReformat="true" toShortenFQNames="true">
+    <variable name="START" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JSON" value="true" />
+    </context>
+  </template>
 </templateSet>
