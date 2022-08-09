@@ -1,0 +1,24 @@
+<templateSet group="Liquid">
+  <template name="schema" value="{% schema %}&#10;{&#10;  &quot;name&quot;: &quot;$TITLE$&quot;,&#10;  &quot;settings&quot;: [&#10;    {&#10;      &quot;type&quot;: &quot;$TYPE$&quot;,&#10;      &quot;id&quot;: &quot;$ID$&quot;,&#10;      &quot;default&quot;: &quot;$DEFAULT$&quot;,&#10;      &quot;label&quot;: &quot;$LABEL$&quot;&#10;    }&#10;  ],&#10;  &quot;presets&quot;: [&#10;    {&#10;       &quot;name&quot;: &quot;$TITLE$&quot;&#10;    }&#10;  ]&#10;}&#10;{% endschema %}&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="TITLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ID" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="DEFAULT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="LABEL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="LIQUID" value="true" />
+    </context>
+  </template>
+  <template name="sec" value="{&#10;  &quot;sections&quot;: {&#10;    &quot;$START$&quot;: {&#10;        &quot;type&quot;: &quot;$END$&quot;&#10;    }&#10;  },&#10;  &quot;order&quot;: [&quot;$START$&quot;]&#10;}" description="JSON section for shopify" toReformat="true" toShortenFQNames="true">
+    <variable name="START" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JSON" value="true" />
+    </context>
+  </template>
+  <template name="//" value="{% comment %}&#10;$START$&#10;{% endcomment %}" description="Comment" toReformat="false" toShortenFQNames="true">
+    <variable name="START" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="LIQUID" value="true" />
+    </context>
+  </template>
+</templateSet>

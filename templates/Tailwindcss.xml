@@ -1,0 +1,7 @@
+<templateSet group="Tailwindcss">
+  <template name="_tcs" value="const colors = require('tailwindcss/colors')&#10;&#10;/** @type {import('tailwindcss').Config} */&#10;module.exports = {&#10;  content: [&#10;    './assets/**/*.{js,json,liquid}',&#10;    './config/**/*.{js,json,liquid}',&#10;    './layout/**/*.{js,json,liquid}',&#10;    './locales/**/*.{js,json,liquid}',&#10;    './sections/**/*.{js,json,liquid}',&#10;    './snippets/**/*.{js,json,liquid}',&#10;    './templates/**/*.{js,json,liquid}',&#10;  ],&#10;  theme: {&#10;    extend: {&#10;      colors: {&#10;        primary: colors.indigo&#10;      }&#10;    },&#10;  },&#10;  plugins: [],&#10;}&#10;" description="Tailwindcss config for shopify" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
