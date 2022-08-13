@@ -1,0 +1,7 @@
+<application>
+  <component name="OverrideFileTypeManager">
+    <file url="file://C:/www/farmers-friend-project/api-backend/.env" value=".env file" />
+    <file url="file://C:/www/farmers-friend-project/api-backend/.env.example" value=".env file" />
+    <file url="file://C:/www/farmers-friend-projects/backend-api/.env" value=".env file" />
+  </component>
+</application>
