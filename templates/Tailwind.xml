@@ -1,0 +1,7 @@
+<templateSet group="Tailwind">
+  <template name="tailwind" value="@tailwind base;&#10;@tailwind utilities;&#10;@tailwind components;" description="tailwind base template" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+</templateSet>
