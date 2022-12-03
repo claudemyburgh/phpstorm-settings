@@ -3,7 +3,9 @@
     <extensionMap>
       <mapping pattern="LICENCE" type="AUTO_DETECTED" />
       <mapping ext="liquid" type="HTML" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="liquid" approved="true" type="Liquid Template" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
 </application>
